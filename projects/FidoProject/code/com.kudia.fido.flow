@@ -1,9 +1,0 @@
-Flow com.kudia.fido
-     Basepath ""
-     Timeout 100 seconds
-     Configs conf
-Log "@info Sample"
-Repeat 50 times max
-     Log "@info In repeat"
-it_keypc = {success:true, data: { userId: "as9233Qz", property1: "value1"}}
-Finish it_keypc
