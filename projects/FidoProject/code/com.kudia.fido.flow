@@ -1,2 +1,7 @@
-Flow com.kudia.fido
+Flow __________
      Basepath ""
+     Timeout 100 seconds
+     Configs conf
+Log "@info Info"
+it_oeaju = {success:true, data: { userId: "as9233Qz", property1: "value1"}}
+Finish it_oeaju
