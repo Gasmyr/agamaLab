@@ -18,21 +18,5 @@
             "com.example.saml": {}
         },
         "name": "FidoProject"
-    },
-    "dddd": {
-        "projectName": "dddd",
-        "description": "",
-        "type": "community",
-        "author": "Gasmyr",
-        "version": "0.0.1",
-        "authorWebsite": "https://github.com/Gasmyr/agamaLab",
-        "githubUri": "https://github.com/Gasmyr/agamaLab",
-        "license": "apache-2.0",
-        "lastUpdated": "1702932007403",
-        "tags": [
-            "jans"
-        ],
-        "noDirectLaunch": [],
-        "configs": {}
     }
 }
