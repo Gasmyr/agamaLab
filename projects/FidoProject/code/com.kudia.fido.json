@@ -1,0 +1,35 @@
+[
+  {
+    "id": "Agama-start-Flow-fe108e23-0807-4004-b64a-10cb0ab1bbdd",
+    "type": "Agama-start-Flow",
+    "sourcePosition": "right",
+    "data": {
+      "id": "Agama-start-Flow-fe108e23-0807-4004-b64a-10cb0ab1bbdd",
+      "type": "Agama-start-Flow",
+      "position": {
+        "x": 30,
+        "y": 30
+      },
+      "inRepeatBlock": false,
+      "agamaData": {
+        "id": "Agama-start-Flow-fe108e23-0807-4004-b64a-10cb0ab1bbdd",
+        "type": "Agama-start-Flow",
+        "displayName": "Fido",
+        "hasComment": true,
+        "comment": "",
+        "isTopLevelFlow": true,
+        "basepath": "",
+        "configParams": "{}",
+        "nodeIcon": "material-symbols:line-start-square",
+        "timeout": "",
+        "inputs": "",
+        "configs": "",
+        "flowname": "com.kudia.fido"
+      }
+    },
+    "position": {
+      "x": 30,
+      "y": 30
+    }
+  }
+]
