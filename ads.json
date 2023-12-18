@@ -1,1 +1,19 @@
-{}
+{
+    "FidoProject": {
+        "projectName": "FidoProject",
+        "description": "Fido authentication project",
+        "type": "community",
+        "author": "Gasmyr",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/Gasmyr/agamaLab",
+        "githubUri": "https://github.com/Gasmyr/agamaLab",
+        "license": "apache-2.0",
+        "lastUpdated": "1702900294960",
+        "tags": [
+            "jans",
+            "authentication"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
