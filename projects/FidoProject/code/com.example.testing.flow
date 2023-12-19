@@ -1,2 +1,6 @@
 Flow com.example.testing
      Basepath ""
+     Timeout 10 seconds
+     Configs conf
+Log "@info one"
+Log "@info step two"
