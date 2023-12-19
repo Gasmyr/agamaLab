@@ -14,9 +14,7 @@
             "authentication"
         ],
         "noDirectLaunch": [],
-        "configs": {
-            "com.example.saml": {}
-        },
+        "configs": {},
         "name": "FidoProject"
     }
 }
