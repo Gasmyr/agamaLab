@@ -1,7 +1,0 @@
-Flow com.example.saml
-     Basepath ""
-     Timeout 100 seconds
-     Configs conf
-Log "@info Inform"
-it_vdseu = {success:true, data: { userId: "as9233Qz", property1: "value1"}}
-Finish it_vdseu
