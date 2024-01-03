@@ -1,6 +1,8 @@
 Flow org.gasmyr.agama.fido
      Basepath ""
 Log "@info long way"
+When user is "Gasmyr"
+     Log "@info IT"
 // dddddddddddddddddd
-it_zjgus = {success:true, data: { userId: "as9233Qz", property1: "value1"}}
-Finish it_zjgus
+it_ijhbr = {success:true, data: { userId: "as9233Qz", property1: "value1"}}
+Finish it_ijhbr
