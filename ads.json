@@ -14,9 +14,7 @@
             "authentication"
         ],
         "noDirectLaunch": [],
-        "configs": {
-            "com.example.testing": {}
-        },
+        "configs": {},
         "name": "FidoProject"
     }
 }
