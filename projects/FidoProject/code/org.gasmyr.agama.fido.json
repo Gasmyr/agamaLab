@@ -31,7 +31,8 @@
 					"logMessage": "\"in\"",
 					"logLevel": "info",
 					"nodeIcon": "octicon:log-16"
-				}
+				},
+				"skake": false
 			},
 			"selected": true,
 			"dragging": false,
@@ -71,7 +72,8 @@
 					"logMessage": "\"Log\"",
 					"logLevel": "info",
 					"nodeIcon": "octicon:log-16"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -112,7 +114,8 @@
 				"handles": [
 					"Agama-when-Node-e99d6605-b26a-4e0e-847a-e7abc2e1b6c2.FAILURE",
 					"Agama-when-Node-e99d6605-b26a-4e0e-847a-e7abc2e1b6c2.SUCCESS"
-				]
+				],
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -299,8 +302,8 @@
 		}
 	],
 	"viewport": {
-		"x": 392.3617188689318,
-		"y": 77.86440924839623,
-		"zoom": 0.6070974421975236
+		"x": 10,
+		"y": 15,
+		"zoom": 1
 	}
 }
