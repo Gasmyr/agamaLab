@@ -34,7 +34,7 @@
 				},
 				"skake": false
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 543,
@@ -109,15 +109,20 @@
 					"hasSuccess": true,
 					"hasFailure": "",
 					"hasNoRepeat": false,
-					"hasRepeat": false
+					"hasRepeat": false,
+					"variableField": "data",
+					"conditionInputField": "is not",
+					"valueField": "\"Runner\"",
+					"hasComment": true,
+					"inRepeatBlock": false
 				},
 				"handles": [
 					"Agama-when-Node-e99d6605-b26a-4e0e-847a-e7abc2e1b6c2.FAILURE",
 					"Agama-when-Node-e99d6605-b26a-4e0e-847a-e7abc2e1b6c2.SUCCESS"
 				],
-				"skake": false
+				"skake": true
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 430,
