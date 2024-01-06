@@ -1,6 +1,6 @@
 Flow org.gasmyr.agama.fido
      Basepath ""
 Log "@info long way"
-When __________ __________ __________
+When data is not "Runner"
      Log "@info in"
 Log "@info Log"
