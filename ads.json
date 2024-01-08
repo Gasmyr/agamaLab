@@ -15,7 +15,8 @@
         ],
         "noDirectLaunch": [],
         "configs": {
-            "org.gasmyr.agama.fido": {}
+            "org.gasmyr.agama.fido": {},
+            "com.gasmyr.passwordless": {}
         },
         "name": "FidoProject"
     }
