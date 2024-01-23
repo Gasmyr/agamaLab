@@ -3,7 +3,7 @@ Flow org.gasmyr.agama.fido
 Log "@info long way"
 When data is not "Runner"
      Log "@info in"
-     Repeat 15 times max
+     count = Repeat 15 times max
           Log "@info Nice"
      Log "@info NEXT"
 Log "@info Log"
