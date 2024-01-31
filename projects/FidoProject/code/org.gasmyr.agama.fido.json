@@ -34,7 +34,7 @@
 				},
 				"skake": false
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 993,
@@ -332,7 +332,7 @@
 					"configParams": "{}",
 					"nodeIcon": "material-symbols:line-start-square",
 					"timeout": "",
-					"inputs": "",
+					"inputs": "input1 input2 input3",
 					"configs": "",
 					"flowname": "org.gasmyr.agama.fido"
 				},
@@ -342,7 +342,7 @@
 				"x": 30,
 				"y": 30
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 30,
