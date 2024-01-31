@@ -1,5 +1,6 @@
 Flow org.gasmyr.agama.fido
      Basepath ""
+     Inputs input1 input2 input3
 Log "@info long way"
 When data is not "Runner"
      Log "@info in"
