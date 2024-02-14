@@ -13,9 +13,7 @@
             "jans",
             "authentication"
         ],
-        "noDirectLaunch": [
-            "com.sample.testing.running"
-        ],
+        "noDirectLaunch": [],
         "configs": {
             "org.gasmyr.agama.fido": {},
             "com.gasmyr.passwordless": {},
