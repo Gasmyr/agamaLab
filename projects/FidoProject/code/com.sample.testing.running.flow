@@ -1,3 +1,7 @@
 Flow com.sample.testing.running
      Basepath ""
 Log "@info ddddddddddddddddddddd"
+ip = "15"
+id = "45"
+When ip is 15
+     Log "@info Do x"
