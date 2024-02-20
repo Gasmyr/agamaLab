@@ -1,8 +1,8 @@
 {
 	"nodes": [
 		{
-			"width": 170,
-			"height": 124,
+			"width": 168,
+			"height": 120,
 			"id": "Agama-log-Node-eeb87476-e3a0-4c97-b6e6-aa18e9511037",
 			"position": {
 				"x": 1032.0528226578112,
@@ -30,15 +30,18 @@
 					"whenCondition": "WhenTrue",
 					"inRepeatBlock": false,
 					"inIterateBlock": false,
-					"logMessage": "",
-					"logLevel": "",
+					"logMessage": "\"dddddddddddd\"",
+					"logLevel": "info",
 					"nodeIcon": "octicon:log-16"
-				}
+				},
+				"skake": true
 			},
 			"positionAbsolute": {
 				"x": 1032.0528226578112,
 				"y": 315.39474366635034
-			}
+			},
+			"selected": false,
+			"dragging": false
 		},
 		{
 			"width": 170,
@@ -64,21 +67,24 @@
 					"id": "Agama-log-Node-9aa0568a-eee1-45db-84ed-350abb42fa66",
 					"parentId": "Agama-when-Node-a3e39a3a-b4fc-4b4c-8279-98a617eedac6",
 					"type": "Agama-log-Node",
-					"displayName": "",
+					"displayName": "ggg",
 					"hasComment": true,
 					"comment": "",
 					"whenCondition": "WhenFalse",
 					"inRepeatBlock": false,
 					"inIterateBlock": false,
-					"logMessage": "",
-					"logLevel": "",
+					"logMessage": "\"deeee\"",
+					"logLevel": "info",
 					"nodeIcon": "octicon:log-16"
-				}
+				},
+				"skake": false
 			},
 			"positionAbsolute": {
 				"x": 1169.0528226578112,
 				"y": 31.394743666350337
-			}
+			},
+			"selected": true,
+			"dragging": false
 		},
 		{
 			"width": 210,
@@ -119,7 +125,8 @@
 				"handles": [
 					"Agama-when-Node-a3e39a3a-b4fc-4b4c-8279-98a617eedac6.FAILURE",
 					"Agama-when-Node-a3e39a3a-b4fc-4b4c-8279-98a617eedac6.SUCCESS"
-				]
+				],
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -165,7 +172,8 @@
 					"inIterateBlock": false,
 					"arguments": [],
 					"nodeIcon": "material-symbols:code"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -257,7 +265,7 @@
 					"Agama-when-Node-6471e96f-9b17-490e-aa39-ee6839bc4fee.FAILURE",
 					"Agama-when-Node-6471e96f-9b17-490e-aa39-ee6839bc4fee.SUCCESS"
 				],
-				"skake": true
+				"skake": false
 			},
 			"selected": false,
 			"positionAbsolute": {
