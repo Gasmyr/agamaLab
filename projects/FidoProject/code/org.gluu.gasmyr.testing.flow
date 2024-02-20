@@ -5,5 +5,5 @@ When ip is true
      Log "@info ssssssssss"
 Call Utils#fake 
 When loc is "Doul"
-     Log "@ " __________
-Log "@ " __________
+     Log "@info dddddddddddd"
+Log "@info deeee"
