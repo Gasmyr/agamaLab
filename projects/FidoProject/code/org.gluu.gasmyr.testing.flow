@@ -1,2 +1,5 @@
 Flow org.gluu.gasmyr.testing
      Basepath ""
+Log "@info zzzzzzzzzzzzzzzzz"
+When 
+     Log "@info ssssssssss"
