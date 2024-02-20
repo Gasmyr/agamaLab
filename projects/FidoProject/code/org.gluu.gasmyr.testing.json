@@ -1,0 +1,35 @@
+[
+  {
+    "id": "Agama-start-Flow-a6a997c1-d4ce-424d-b1ee-93e3bdbc77eb",
+    "type": "start",
+    "sourcePosition": "right",
+    "data": {
+      "id": "Agama-start-Flow-a6a997c1-d4ce-424d-b1ee-93e3bdbc77eb",
+      "type": "Agama-start-Flow",
+      "position": {
+        "x": 30,
+        "y": 30
+      },
+      "inRepeatBlock": false,
+      "agamaData": {
+        "id": "Agama-start-Flow-a6a997c1-d4ce-424d-b1ee-93e3bdbc77eb",
+        "type": "Agama-start-Flow",
+        "displayName": "Testing",
+        "hasComment": true,
+        "comment": "",
+        "isTopLevelFlow": true,
+        "basepath": "",
+        "configParams": "{}",
+        "nodeIcon": "material-symbols:line-start-square",
+        "timeout": "",
+        "inputs": "",
+        "configs": "",
+        "flowname": "org.gluu.gasmyr.testing"
+      }
+    },
+    "position": {
+      "x": 30,
+      "y": 30
+    }
+  }
+]
