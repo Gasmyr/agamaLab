@@ -313,8 +313,8 @@
 			}
 		},
 		{
-			"width": 170,
-			"height": 124,
+			"width": 168,
+			"height": 120,
 			"id": "Agama-log-Node-6ae8217b-cafe-4873-a5cd-483dd30a97e8",
 			"position": {
 				"x": 719.0528226578112,
@@ -342,10 +342,11 @@
 					"whenCondition": "WhenFalse",
 					"inRepeatBlock": false,
 					"inIterateBlock": false,
-					"logMessage": "\"\"ssssssssssssssss",
+					"logMessage": "\"ssssssssssssssss\"",
 					"logLevel": "info",
 					"nodeIcon": "octicon:log-16"
-				}
+				},
+				"skake": true
 			},
 			"selected": true,
 			"dragging": false,
