@@ -1,2 +1,6 @@
-Flow com.coudia.running
+Flow __________
      Basepath ""
+Log "@ " __________
+Log "@ " __________
+When 
+Call __________#__________ 
