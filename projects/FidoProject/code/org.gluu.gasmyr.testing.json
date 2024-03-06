@@ -27,17 +27,21 @@
 					"displayName": "",
 					"hasComment": true,
 					"comment": "",
-					"javaClassName": "",
-					"javaMethodName": "",
+					"javaClassName": "Runner",
+					"javaMethodName": "run",
 					"javaVariableName": "",
 					"exceptionVariableField": "",
 					"callType": "Call static method",
 					"whenCondition": "Otherwise",
 					"inRepeatBlock": false,
 					"inIterateBlock": false,
-					"arguments": [],
-					"nodeIcon": "material-symbols:code"
-				}
+					"arguments": [
+						"two"
+					],
+					"nodeIcon": "material-symbols:code",
+					"asssignedVariableName": "res"
+				},
+				"skake": true
 			},
 			"selected": false,
 			"positionAbsolute": {
@@ -70,7 +74,7 @@
 					"id": "Agama-log-Node-eeb87476-e3a0-4c97-b6e6-aa18e9511037",
 					"parentId": "Agama-when-Node-a3e39a3a-b4fc-4b4c-8279-98a617eedac6",
 					"type": "Agama-log-Node",
-					"displayName": "",
+					"displayName": "Met2",
 					"hasComment": true,
 					"comment": "",
 					"whenCondition": "WhenTrue",
@@ -86,7 +90,7 @@
 				"x": 1235.0530819791265,
 				"y": 305.6315380018975
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false
 		},
 		{
@@ -113,7 +117,7 @@
 					"id": "Agama-log-Node-9aa0568a-eee1-45db-84ed-350abb42fa66",
 					"parentId": "Agama-when-Node-a3e39a3a-b4fc-4b4c-8279-98a617eedac6",
 					"type": "Agama-log-Node",
-					"displayName": "ggg",
+					"displayName": "Log next2",
 					"hasComment": true,
 					"comment": "",
 					"whenCondition": "WhenFalse",
@@ -129,7 +133,7 @@
 				"x": 1383.21103130993,
 				"y": 13.263076003795106
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false
 		},
 		{
@@ -386,7 +390,7 @@
 					"id": "Agama-call-Node-313d1149-8969-40c8-a440-59c0309ed856",
 					"parentId": "Agama-when-Node-6471e96f-9b17-490e-aa39-ee6839bc4fee",
 					"type": "Agama-call-Node",
-					"displayName": "",
+					"displayName": "Call",
 					"hasComment": true,
 					"comment": "",
 					"javaClassName": "Utils",
@@ -397,11 +401,14 @@
 					"whenCondition": "WhenFalse",
 					"inRepeatBlock": false,
 					"inIterateBlock": false,
-					"arguments": [],
+					"arguments": [
+						"res"
+					],
 					"nodeIcon": "material-symbols:code",
 					"position": {
 						"x": 869.0528226578112
-					}
+					},
+					"asssignedVariableName": "callRes"
 				},
 				"skake": false
 			},
