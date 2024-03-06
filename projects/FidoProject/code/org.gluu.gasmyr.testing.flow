@@ -4,7 +4,7 @@ Log "@info zzzzzzzzzzzzzzzzz"
 When ip is true
  Log "@info ssssssssss"
 Otherwise
- Call __________#__________ 
-Call Utils#fake 
+ res = Call Runner#run two
+callRes = Call Utils#fake res
 When loc is "Doul"
  Log "@info Condition met two"
