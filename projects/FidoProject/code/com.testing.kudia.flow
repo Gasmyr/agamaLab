@@ -3,3 +3,4 @@ Flow com.testing.kudia
 Log "@warn Sample"
 Repeat 5 times max
      Log "@info Repeating"
+     res = Call Utils#sample input
