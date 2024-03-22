@@ -1,3 +1,5 @@
 Flow com.testing.kudia
      Basepath ""
 Log "@warn Sample"
+Repeat 5 times max
+     Log "@info Repeating"
