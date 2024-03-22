@@ -18,7 +18,8 @@
             "org.gasmyr.agama.fido": {},
             "com.gasmyr.passwordless": {},
             "com.sample.testing.running": {},
-            "org.gluu.gasmyr.testing": {}
+            "org.gluu.gasmyr.testing": {},
+            "com.testing.kudia": {}
         },
         "name": "FidoProject"
     }
