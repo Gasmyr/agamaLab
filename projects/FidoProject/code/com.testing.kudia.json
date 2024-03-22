@@ -1,0 +1,35 @@
+[
+  {
+    "id": "Agama-start-Flow-012944c1-7af9-4472-a539-a4c8792a59f2",
+    "type": "start",
+    "sourcePosition": "right",
+    "data": {
+      "id": "Agama-start-Flow-012944c1-7af9-4472-a539-a4c8792a59f2",
+      "type": "Agama-start-Flow",
+      "position": {
+        "x": 30,
+        "y": 30
+      },
+      "inRepeatBlock": false,
+      "agamaData": {
+        "id": "Agama-start-Flow-012944c1-7af9-4472-a539-a4c8792a59f2",
+        "type": "Agama-start-Flow",
+        "displayName": "kudia",
+        "hasComment": true,
+        "comment": "",
+        "isTopLevelFlow": true,
+        "basepath": "",
+        "configParams": "{}",
+        "nodeIcon": "material-symbols:line-start-square",
+        "timeout": "",
+        "inputs": "",
+        "configs": "",
+        "flowname": "com.testing.kudia"
+      }
+    },
+    "position": {
+      "x": 30,
+      "y": 30
+    }
+  }
+]
